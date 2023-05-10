@@ -1,2 +1,2 @@
 # Simon_Game
-simon game web practice
+simon game jquery practice
